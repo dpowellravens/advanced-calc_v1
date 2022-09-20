@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dpowell/C# Projects/AdvancedCalculator/AdvancedCalculator.csproj": {}
+    "/Users/dpowell/C_Sharp_Projects/AdvancedCalculator_v1.1/AdvancedCalculator.csproj": {}
   },
   "projects": {
-    "/Users/dpowell/C# Projects/AdvancedCalculator/AdvancedCalculator.csproj": {
+    "/Users/dpowell/C_Sharp_Projects/AdvancedCalculator_v1.1/AdvancedCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dpowell/C# Projects/AdvancedCalculator/AdvancedCalculator.csproj",
+        "projectUniqueName": "/Users/dpowell/C_Sharp_Projects/AdvancedCalculator_v1.1/AdvancedCalculator.csproj",
         "projectName": "AdvancedCalculator",
-        "projectPath": "/Users/dpowell/C# Projects/AdvancedCalculator/AdvancedCalculator.csproj",
+        "projectPath": "/Users/dpowell/C_Sharp_Projects/AdvancedCalculator_v1.1/AdvancedCalculator.csproj",
         "packagesPath": "/Users/dpowell/.nuget/packages/",
-        "outputPath": "/Users/dpowell/C# Projects/AdvancedCalculator/obj/",
+        "outputPath": "/Users/dpowell/C_Sharp_Projects/AdvancedCalculator_v1.1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dpowell/.nuget/NuGet/NuGet.Config"

@@ -9,6 +9,8 @@ public class BasicCalc : Program
     string operand;
     static double convertInput;
     string input;
+    
+    
     static bool invalid = true;
     
     public static void AcceptUserInputs(string inputOrder)

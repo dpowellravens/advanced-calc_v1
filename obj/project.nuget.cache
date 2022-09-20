@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BlGH9cD11icfJvi8QGJDJY5r/327lIsZlwKWfibgvELJSk6pf4Aw8BBiwemIOTAsDZfAvvdqnA4PStDG1IsOcQ==",
+  "dgSpecHash": "pcwykztNfLc7Lt5F1Y0ViLTu+KAQ0/4Zgdw5yM0/MO8ZOJNY93QmEQs9FRUa42BiB5AuZd9pczV/lGa2ZzPEwg==",
   "success": true,
-  "projectFilePath": "/Users/dpowell/C# Projects/AdvancedCalculator/AdvancedCalculator.csproj",
+  "projectFilePath": "/Users/dpowell/C_Sharp_Projects/AdvancedCalculator_v1.1/AdvancedCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
