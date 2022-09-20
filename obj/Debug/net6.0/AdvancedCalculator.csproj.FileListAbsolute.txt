@@ -1,0 +1,30 @@
+/Users/dpowell/Projects/AdvancedCalculator/bin/Debug/net6.0/AdvancedCalculator
+/Users/dpowell/Projects/AdvancedCalculator/bin/Debug/net6.0/AdvancedCalculator.deps.json
+/Users/dpowell/Projects/AdvancedCalculator/bin/Debug/net6.0/AdvancedCalculator.runtimeconfig.json
+/Users/dpowell/Projects/AdvancedCalculator/bin/Debug/net6.0/AdvancedCalculator.dll
+/Users/dpowell/Projects/AdvancedCalculator/bin/Debug/net6.0/AdvancedCalculator.pdb
+/Users/dpowell/Projects/AdvancedCalculator/obj/Debug/net6.0/AdvancedCalculator.csproj.AssemblyReference.cache
+/Users/dpowell/Projects/AdvancedCalculator/obj/Debug/net6.0/AdvancedCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dpowell/Projects/AdvancedCalculator/obj/Debug/net6.0/AdvancedCalculator.AssemblyInfoInputs.cache
+/Users/dpowell/Projects/AdvancedCalculator/obj/Debug/net6.0/AdvancedCalculator.AssemblyInfo.cs
+/Users/dpowell/Projects/AdvancedCalculator/obj/Debug/net6.0/AdvancedCalculator.csproj.CoreCompileInputs.cache
+/Users/dpowell/Projects/AdvancedCalculator/obj/Debug/net6.0/AdvancedCalculator.dll
+/Users/dpowell/Projects/AdvancedCalculator/obj/Debug/net6.0/refint/AdvancedCalculator.dll
+/Users/dpowell/Projects/AdvancedCalculator/obj/Debug/net6.0/AdvancedCalculator.pdb
+/Users/dpowell/Projects/AdvancedCalculator/obj/Debug/net6.0/AdvancedCalculator.genruntimeconfig.cache
+/Users/dpowell/Projects/AdvancedCalculator/obj/Debug/net6.0/ref/AdvancedCalculator.dll
+/Users/dpowell/C# Projects/AdvancedCalculator/bin/Debug/net6.0/AdvancedCalculator
+/Users/dpowell/C# Projects/AdvancedCalculator/bin/Debug/net6.0/AdvancedCalculator.deps.json
+/Users/dpowell/C# Projects/AdvancedCalculator/bin/Debug/net6.0/AdvancedCalculator.runtimeconfig.json
+/Users/dpowell/C# Projects/AdvancedCalculator/bin/Debug/net6.0/AdvancedCalculator.dll
+/Users/dpowell/C# Projects/AdvancedCalculator/bin/Debug/net6.0/AdvancedCalculator.pdb
+/Users/dpowell/C# Projects/AdvancedCalculator/obj/Debug/net6.0/AdvancedCalculator.csproj.AssemblyReference.cache
+/Users/dpowell/C# Projects/AdvancedCalculator/obj/Debug/net6.0/AdvancedCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dpowell/C# Projects/AdvancedCalculator/obj/Debug/net6.0/AdvancedCalculator.AssemblyInfoInputs.cache
+/Users/dpowell/C# Projects/AdvancedCalculator/obj/Debug/net6.0/AdvancedCalculator.AssemblyInfo.cs
+/Users/dpowell/C# Projects/AdvancedCalculator/obj/Debug/net6.0/AdvancedCalculator.csproj.CoreCompileInputs.cache
+/Users/dpowell/C# Projects/AdvancedCalculator/obj/Debug/net6.0/AdvancedCalculator.dll
+/Users/dpowell/C# Projects/AdvancedCalculator/obj/Debug/net6.0/refint/AdvancedCalculator.dll
+/Users/dpowell/C# Projects/AdvancedCalculator/obj/Debug/net6.0/AdvancedCalculator.pdb
+/Users/dpowell/C# Projects/AdvancedCalculator/obj/Debug/net6.0/AdvancedCalculator.genruntimeconfig.cache
+/Users/dpowell/C# Projects/AdvancedCalculator/obj/Debug/net6.0/ref/AdvancedCalculator.dll
