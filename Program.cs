@@ -2,25 +2,30 @@
 
 public class Program
 {
-    static string calculatorChoice; 
-    static string userInput;
-    static double convertUserInput;
+    public static string calculatorChoice; 
+    public static string userNumInput;
+    public static double convertUserInput;
     
     // Main Method
     static void Main(String[] args)
     {
-        ChooseCalcType();
+        ChooseCalcType(); //Choose either Basic or Tip
         
-        switch (calculatorChoice)
+        switch (calculatorChoice) //passes value from previous method
         {
             case "Basic":
-                BasicCalc.AcceptUserInputs("First");
-                //Console.Write(userInput);
+                //BasicCalc.AcceptUserInputs("First");
                 BasicCalc.AcceptUserInputs("Second");
+                //BasicCalc.AcceptUserInputs("First");
                 break;
-            
+
             case "Tip":
                 //do stuff with TipCalc class
+                Console.WriteLine("Tip stuff");
+                break;
+            
+            default:
+                Console.WriteLine("Default stuff");
                 break;
         }
     }
