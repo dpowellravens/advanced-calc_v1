@@ -2,10 +2,10 @@
 
 public class Program
 {
-    public static string calculatorChoice; 
-    public static string userNumInput;
-    public static double convertUserInput;
-    
+    static string calculatorChoice; 
+    public static string userNumInput1;
+    public static string userNumInput2;
+
     // Main Method
     static void Main(String[] args)
     {
@@ -14,9 +14,9 @@ public class Program
         switch (calculatorChoice) //passes value from previous method
         {
             case "Basic":
-                //BasicCalc.AcceptUserInputs("First");
-                BasicCalc.AcceptUserInputs("Second");
-                //BasicCalc.AcceptUserInputs("First");
+                BasicCalc.ProcessInputs("First");
+                BasicCalc.ProcessInputs("Second");
+                BasicCalc.ProcessInputs("Operand");
                 break;
 
             case "Tip":
