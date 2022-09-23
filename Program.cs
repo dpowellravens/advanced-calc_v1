@@ -2,22 +2,24 @@
 
 namespace AdvancedCalculator;
 
-public class Program
+public class Program //base class
 {
     static string calculatorChoice;
     public static string userNumInput1;
     public static string userNumInput2;
-    public static string inputType;
+    public static string userDollarAmt;
+    public static string userPercent;
+    //public static string inputType;
     public static string operand;
     public static bool continueAnswerBool = true;
     public static bool success;
 
-    public static string userDollarAmt;
-    public static string userPercent;
-
     // Main Method
     static void Main(String[] args)
     {
+        Console.WriteLine("This is my Advanced Coding Calendar. You can do basic mathematical calculations" +
+                          " as well as tip calculations.");
+        
         ChooseCalcType(); //Choose either Basic or Tip
 
         while (continueAnswerBool) //Do this if they choose to continue with the calculation.
@@ -47,8 +49,9 @@ public class Program
                         switch (continueAnswerBool)
                         {
                             case true:
-                                Console.WriteLine("Woo hoo! Let's continue!!"); 
-                                //reset values
+                                Console.WriteLine("Woo hoo! Let's continue!!\n"); 
+                                
+                                //reset values for next run if they continue
                                 userNumInput1 = "";
                                 userNumInput2 = "";
                                 operand = "";
@@ -77,7 +80,7 @@ public class Program
                 switch (continueAnswerBool)
                 {
                     case true:
-                        Console.WriteLine("Woo hoo! Let's continue!!");
+                        Console.WriteLine("Woo hoo! Let's continue!!\n");
                         break;
                     
                     default:
@@ -93,22 +96,22 @@ public class Program
     {
         while (calculatorChoice != "Basic" && calculatorChoice != "Tip")
         {
-            Console.WriteLine("Choose 1 for Basic and 2 for Tip");
+            Console.WriteLine("Enter 1 for Basic and 2 for Tip:");
             var calcType = Console.ReadLine();
             switch (calcType)
             {
                 case "1":
-                    Console.WriteLine("You chose the Basic Calculator");
+                    Console.WriteLine("You chose the Basic Calculator \n");
                     calculatorChoice = "Basic";
                     break;
 
                 case "2":
-                    Console.WriteLine("You chose the Tipping Calculator.");
+                    Console.WriteLine("You chose the Tipping Calculator.\n");
                     calculatorChoice = "Tip";
                     break;
 
                 default:
-                    Console.WriteLine("You must enter either 1 or 2. Please try again.");
+                    Console.WriteLine("You must enter either 1 or 2. Please try again.\n");
                     break;
             }
         }
